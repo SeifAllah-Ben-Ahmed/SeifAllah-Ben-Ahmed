@@ -10,7 +10,7 @@
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
-benahmed.seifallahg@gmail.com
+benahmed.seifallah@gmail.com
 <br />
 
 ### Languages and Tools:
