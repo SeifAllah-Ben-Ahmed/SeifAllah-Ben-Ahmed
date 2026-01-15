@@ -4,7 +4,7 @@
 
 - 🚀 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2025 Goals: Contribute more to Open Source projects
+- 🥅 2026 Goals: Focus on delivering high-quality, scalable, and user-friendly solutions that make a tangible impact.
 - ⚡ Fun fact: I love to play video games
 
 ### Connect with me:
